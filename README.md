@@ -7,3 +7,5 @@ More to come later.
 Now just adding another line for a new commit
 
 Added this line from Git Desktop
+
+Adding another line with editor via Git Desktop
