@@ -9,3 +9,5 @@ Now just adding another line for a new commit
 Added this line from Git Desktop
 
 Adding another line with editor via Git Desktop
+
+This line I am adding via a new branch called update-1
